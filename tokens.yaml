@@ -1,0 +1,10 @@
+tokens:
+  - vault_url: https://vault.example.com
+    token: s.1234567890abcdef
+    name: svc-01
+  - vault_url: https://vault.example.com
+    token: s.1234567890abcdef
+    name: svc-02
+  - vault_url: https://vault.example.com
+    token: s.1234567890abcdef
+    name: svc-03
